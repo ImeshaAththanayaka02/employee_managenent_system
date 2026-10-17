@@ -42,7 +42,7 @@ At the end of this assignment, the application allows a user to:
 3. Edit an existing employee.
 4. Delete an employee after confirmation.
    
-6.
+  
 At the end of this assignment, the application should allow a user to:
 1. Add a new employee.
 2. View all saved employees.
